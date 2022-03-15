@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinterly, a software engineering student.
+- 👋 Hi, I’m @vinterly, a computer science student.
 - 👀 I’m interested in pretty much everything.
 - 🌱 I’m currently learning web programming - HTML, CSS, JS, Vue, Flask, AJAX...
 - 📫 How to reach me: @JustVinterly on Twitter, or just message me here.
