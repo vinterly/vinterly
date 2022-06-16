@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vinterly, a computer science student.
 - 👀 I’m interested in pretty much everything.
-- 🌱 I’m currently learning web programming - HTML, CSS, JS, Vue, Flask, AJAX...
+- 🏫 Last semester I looked into the fundamentals of web programming - both front-end and back-end
+- 🌱 This semester I'll be learning systems programming with Go, software security, algorithms and data structures.
 - 📫 How to reach me: @JustVinterly on Twitter, or just message me here.
 
 <!---
