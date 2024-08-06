@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vinterly, a computer science student.
+- 👋 Hi, I’m @vinterly, a junior software engineer.
 - 👀 I’m interested in pretty much everything.
-- 📫 How to reach me: @JustVinterly on Twitter, or just message me here.
+- 📫 How to reach me: just message me here!
 
 <!---
 vinterly/vinterly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
